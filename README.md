@@ -56,4 +56,4 @@ Las contribuciones mediante **Pull Request** son bienvenidas. Describe el cambio
 
 ## Créditos y licencia
 
-Esta adaptación conserva referencias a **FMM Modules**, autor indicado en los metadatos del módulo original. Antes de redistribuir públicamente el código, confirma que la licencia del módulo original permite su publicación y redistribución. Añade el archivo de licencia correspondiente a este repositorio; el encabezado de algunos archivos menciona `LICENSE.md`, pero ese archivo no está incluido actualmente.
+Esta adaptación conserva referencias a **FMM Modules**, autor indicado en los metadatos del módulo original.
