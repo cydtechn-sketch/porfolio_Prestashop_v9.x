@@ -1,0 +1,61 @@
+/**
+ * Copyright since 2007 PrestaShop SA and Contributors
+ * PrestaShop is an International Registered Trademark & Property of PrestaShop SA
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL 3.0)
+ * that is bundled with this package in the file LICENSE.md.
+ * It is also available through the world-wide-web at this URL:
+ * https://opensource.org/licenses/OSL-3.0
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@prestashop.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ * versions in the future. If you wish to customize PrestaShop for your
+ * needs please refer to https://devdocs.prestashop.com/ for more information.
+ *
+ * @author    PrestaShop SA and Contributors <contact@prestashop.com>
+ * @copyright Since 2007 PrestaShop SA and Contributors
+ * @license   https://opensource.org/licenses/OSL-3.0 Open Software License (OSL 3.0)
+ */
+#fmmPorfolio ol { list-style: none}
+
+#fmmPorfolio ol li { display: block; clear: both; padding: 20px 0; border-bottom: 3px solid #ccc; }
+
+#fmmPorfolio ol li:after { content: "."; display: block; clear: both; height: 0px; visibility: hidden;}
+
+#fmmPorfolio ol li .fmm_left_cube { float: left; width: 25%;}
+
+#fmmPorfolio ol li .fmm_right_cube { float: right; width: 70%;}
+
+#fmmPorfolio ol li .fmm_right_cube img { max-width: 100%; border: 2px solid #F6F6F6}
+
+#fmmPorfolio ol li .fmm_left_cube h5 { font-size: 22px; color: #000; clear: both;}
+
+#fmmPorfolio ol li .fmm_left_cube h6 { font-size: 12px; color: #707271; clear: both; line-height: 25px;}
+
+#fmmPorfolio ol li .fmm_left_cube a { padding: 5px 15px; background: #666666; font-weight: bold; text-transform: uppercase; clear: both; color: #fff;}
+
+#fmmPorfolio ol li .fmm_left_cube a:hover { background: #000}
+
+#fmmPorfolio ol li .fmm_left_cube p { display: block}
+
+#fmmPorfolio .features { clear: both; padding: 5px 0 20px}
+
+#fmmPorfolio .features ul { list-style: disc; padding-left: 10px}
+
+#fmmPorfolio .features ul li { padding:0px; border: 0px; list-style: disc; display:list-item}
+
+#fmmPorfolio ul.pagination { list-style-type: none; padding: 0; margin: 0}
+
+#fmmPorfolio ul.pagination li { display: inline-block; margin-right: 5px}
+
+#fmmPorfolio ul.pagination li.active a { font-weight: bold; background-color: #2fb5d2}
+
+#fmmPorfolio ul.pagination li a { display: block; padding: 5px 10px; background-color: #C0C0C0; color: #333; solid #ccc; border-radius: 3px}
+
+#fmmPorfolio ul.pagination li a:hover { background-color: #ddd}
